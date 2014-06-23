@@ -1,0 +1,4 @@
+INSTALL needed:
+
+add the following cmd into sudoer file and allow NOPASSWD exec
+/etc/init.d/nginx reload 
